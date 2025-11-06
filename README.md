@@ -25,7 +25,7 @@ This repository adapts it for **MySQL 8.0**, maintaining the same logic and orig
 This project is based on Microsoft’s open-source SQL Server sample database:
 
 - **Repository:** [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples)
-- **Original file:** [instpubs.sql](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/pubs/instpubs.sql](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instpubs.sql)
+- **Original file:** [instpubs.sql](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instpubs.sql)
 - **License:** MIT License © Microsoft Corporation
 
 ---
@@ -64,7 +64,7 @@ Some large or repetitive text objects from the original dataset have been **shor
 本项目基于微软开源的 SQL Server 示例数据库改写：
 
 - **项目仓库：** [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples)  
-- **原始文件：** [instpubs.sql](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/pubs/instpubs.sql](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instpubs.sql)  
+- **原始文件：** [instpubs.sql](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instpubs.sql)  
 - **许可证：** MIT License © Microsoft Corporation
 
 ---
